@@ -31,3 +31,18 @@ footer{
     text-align:center;
     padding: 10px;
 }
+/*Adding Contact pieces here*/
+#ContactPage {
+    width:960px;
+    margin-top:20px;
+    margin-left:15%;
+}
+#SubmitButton {
+    float:left;
+}
+#ContactMessage {
+    height:320px;
+    width:900px;
+    padding:15px;
+    text-align:left;
+}
