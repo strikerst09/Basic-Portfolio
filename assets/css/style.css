@@ -1,0 +1,33 @@
+/*Starts With About Me (index.html)*/
+
+#Header{
+    margin-left:15%;
+    margin-bottom:15%;
+    width:960px;
+    position:fixed;
+    top:0;
+}
+
+#Name {
+    float:left;
+    font-size: 30px;
+}
+button {
+    float:right;
+    margin-top:40px;
+    padding:10,10,10,50px;
+}
+#AboutMeContent {
+    margin-left:15%;
+    width:960px;
+}
+#AboutMe {
+    float:left;
+}
+#Myimg {
+    float:left;
+}
+footer{
+    text-align:center;
+    padding: 10px;
+}
