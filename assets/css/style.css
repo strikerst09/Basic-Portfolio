@@ -1,21 +1,29 @@
 /*Starts With About Me (index.html)*/
-
-#Header{
-    margin-left:15%;
-    margin-bottom:15%;
-    width:960px;
-    position:fixed;
-    top:0;
+body{
+    background:white;
+    line-height:32px;
 }
-
-#Name {
-    float:left;
+#HCntnr {
+    position:fixed;
+    width:auto;
+}
+#Header{
+    position:fixed;
+    top:10;
+    margin:0;
+    background:white;
+    text-align:left;
+    text-indent: 21%;
     font-size: 30px;
+    width:960px;
+}
+#Name {
+    margin:0;
+    padding:10,0,0,0px;
 }
 button {
     float:right;
-    margin-top:40px;
-    padding:10,10,10,50px;
+    margin-top:10px;
 }
 #AboutMeContent {
     margin-left:15%;
@@ -46,3 +54,31 @@ footer{
     padding:15px;
     text-align:left;
 }
+/*Adding Portfolio Page here*/
+#PortfolioPage {
+    width:960px;
+    margin-top:20px;
+    margin-left:15%;
+    position:relative;
+}
+#HangmanImg {
+    width:300px;
+    height:250px;
+}
+#RPGImg {
+    width:300px;
+    height:250px;
+}
+#TriviaGameImg {
+    width:300px;
+    height:250px;
+}
+#SMUImg {
+    width:300px;
+    height:250px;
+}
+#RPSImg {
+    width:300px;
+    height:250px;
+}
+
