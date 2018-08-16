@@ -156,6 +156,7 @@ a {
 }
 a.bannerlink {
     background-color:#4aaaa5;
+    color: #ffffff;
 }
 a:visited {
     text-decoration: none;
